@@ -10,5 +10,5 @@
 
 ## 📊 GitHub Stat
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-1o&show_icons=true&theme=dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rohit-1o&theme=dark)
