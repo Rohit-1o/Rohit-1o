@@ -12,4 +12,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-1o&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rohit-1o&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-1o&layout=compact&theme=dark&hide_border=false)
