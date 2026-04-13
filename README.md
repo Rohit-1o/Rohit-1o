@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Rohit Goud</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGttdnU5eDh5bXA1ZXNvMjd2bnFwejdtdzc3aDg0MmI0dGZqOW5mNiZlcD12MV9naWZzX3NlYXJjaCZjdT1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
+</p>
+
 # 💫 About Me:
 👨‍💻 About Me<br><br>Hi, I'm Rohit Goud, a Computer Engineering graduate passionate about building real-world software applications.<br><br>I have a strong interest in:<br><br> 💻 Software Development<br> 🤖 Machine Learning & AI<br> 🌐 Web Development<br><br>I enjoy working on projects that involve problem-solving, real-time systems, and smart automation , like this multiplayer game using socket programming.<br><br>Currently, I am focused on improving my skills in:<br><br> Java & Object-Oriented Programming<br> Data Structures & Algorithms<br> Full Stack Development<br><br>I am actively looking for opportunities where I can apply my skills and grow as a developer.<br><br>---<br><br>📫 Connect with me:<br><br> LinkedIn: (https://www.linkedin.com/in/rohit-goud-5522bb26b/)<br>
 
