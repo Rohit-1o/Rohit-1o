@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Goud</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGttdnU5eDh5bXA1ZXNvMjd2bnFwejdtdzc3aDg0MmI0dGZqOW5mNiZlcD12MV9naWZzX3NlYXJjaCZjdT1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
 </p>
